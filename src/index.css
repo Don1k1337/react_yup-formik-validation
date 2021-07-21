@@ -17,13 +17,14 @@ code {
 }
 
 .App {
-  margin-top: 5rem;
+  margin-top: 8rem;
   display: flex;
   justify-content: center;
 }
 header {
   display: block;
-  border-radius: 15px 50px 30px;
-  background: #4dac47;
+  border-radius: 20px 90px 30px;
+  background: #43ca43;
   padding: 80px;
+
 }
